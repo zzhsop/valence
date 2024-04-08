@@ -13,4 +13,4 @@ git add --all && git commit -m "$commit" && git push --set-upstream origin maste
 
 git push origin master:release
 
-echo "https://raw.githubusercontent.com/zzhsop/zzhsop/release/xxx.json"
+echo "https://raw.githubusercontent.com/zzhsop/valence/release/xxx.json"
